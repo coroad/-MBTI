@@ -1,0 +1,33 @@
+#result{
+  display: none;
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.resultname{
+  font-size: 10px;
+}
+
+.resultDesc{
+  font-size: 13px;
+}
+
+.kakao{
+  width: 50px;
+}
+
+
+.gohome{
+  color: #fff;
+  background-color: #16A085;
+  font-size: 16px;
+  border: 0px;
+  border-radius: 20px;
+}
+
+.gohome:hover{
+  background-color: #F4D03F;
+  color: #fff;
+}
