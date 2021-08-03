@@ -28,6 +28,11 @@ p{
       background-color: #16A085;
   color:#fff;
 }
+.all__view a{
+  text-decoration: none;
+  color:#fff;
+  background-color: blueviolet;
+}
 /* qna */
 #qna{
   display: none;
